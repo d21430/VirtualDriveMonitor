@@ -1,0 +1,4 @@
+pip==9.0.1
+pyudev==0.21.0
+setuptools==28.8.0
+six==1.11.0
